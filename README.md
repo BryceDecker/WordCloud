@@ -2,7 +2,7 @@
 ## 🛈 Background Information
 The NBA All-Star game (ASG) is a stage set for the biggest stars to team up or go head to head in a exhibition style game with high flying dunks, 30-ft 3 point shots, and some of the flashiest passes in the league. The overall temperature at these games is light, fresh, fun, but the gameplay is dynamic and exciting. The NBA regular season takes a weeklong hiatus and offers players a chance to step away from the 82 game grog of a regular season during this event. The combination of the best stars and a break from the regular season sets up for interesting and unique interviews from players. In particular, we will analyze Lebron James' interviews.
 
-Lebron James will go down as one of the greatest basketball players to ever live. He has dominated his time in the NBA, so much that he has been named to the All-Star team for 19 consecutive seasons. Only failing to make the team his rookie season, when he entered the league directly from high school. His nineteen appearances has him tied with Kareem Abdul-Jabbar for the most in NBA history. 
+Lebron James will go down as one of the greatest basketball players to ever live. He has dominated his time in the NBA, so much that he has been named to the All-Star team for 19 consecutive seasons. Only failing to make the team his rookie season, when he entered the league directly from high school. His nineteen appearances have him tied with Kareem Abdul-Jabbar for the most in NBA history. 
 
 ## 🎯 Aim
 We want to evaluate Lebron James ASG interviews by identifying common themes and topics. We also hope to gain some insights into trends or popular NBA news of each year around the time of the All-Star game.
