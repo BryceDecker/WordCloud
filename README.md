@@ -10,7 +10,7 @@ http://www.asapsports.com/show_player.php?id=13888
 
 ## :basketball: Word Cloud
 
-<img src="WordCloud/Bball_wordcloud.png" width="30%"> 
+<img src="Bball_wordcloud.png" width="30%"> 
 
 ## :closed_book: Conclusion
 
