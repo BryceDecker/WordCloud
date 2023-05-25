@@ -13,9 +13,9 @@ We aim to continue the pattern set forth by the All-Star game and will execute o
 http://www.asapsports.com/show_player.php?id=13888
 
 ## :triangular_ruler: Skills and Methods
-**Web Scraping** - Performed web scraping through the use of the bs4 library. Encoding detectors were used to identify all links on the page and BeautifulSoup package was utilized to pull all text from the selected links. Used understanding of website tags to scrape desired text, in particular we scraped 'b' and 'td' tags as the format varied - a variation due to the fact that some of these interviews are over 15 years old.      
+**Web Scraping** - We conducted web scraping using the bs4 library to extract data. Encoding detectors were employed to identify all the links on the page, and the BeautifulSoup package was utilized to extract the text from the selected links. By leveraging my understanding of website tags, I targeted specific text elements, such as 'b' and 'td' tags, considering the variations in formatting caused by the age of certain interviews, some of which date back over 15 years      
 
-**Natural Language Processing (NLP)** - Once we aggregate the text from each interview into a single array we are ready to begin processing our data. We utilized the natural language tool kit (nltk) library to do so. The word_tokenize and stopwords packages were used to efficiently remove punctuation and transition words. Additionally, the removal of common words which had no value through the use of a for loop and if statements was performed.   
+**Natural Language Processing (NLP)** - After aggregating the text from each interview into a single array, we proceeded to process our data. To accomplish this, we employed the natural language toolkit (NLTK) library. Specifically, we utilized the word_tokenize and stopwords packages to effectively eliminate punctuation and transition words. Moreover, we implemented a for loop and if statements to remove common words that held no significant value.   
 
 **Data Visualization** - The first task of creating our visualization was choosing an impactful and clear image for our mask. Next, we ensured the image format was in-line with the requirements for a word cloud object (e.g. 255 for background). Finally, we implemented the wordcloud library to indentify the colors in our mask (ImageColorGenerator) and create the image (WordCloud).
 
@@ -24,9 +24,9 @@ http://www.asapsports.com/show_player.php?id=13888
 <img src="Bball_wordcloud.png" width="30%"> 
 
 ## :closed_book: Conclusion
-All- Star Game interviews were chosen in anticipation of different themes than those from the regular and post season. However, it appears the common theme is on track with typical Lebron James interviews. We see 'guy' and 'team' as two of the most common words. Lebron often refers to himself as a 'guy' or 'just a guy' to remind people he is human. James is viewed as one of the best players in history and his 'team' first approach has been evident throughout his entire career. 
+All- Star Game interviews were chosen in anticipation of different themes than those from the regular and post season. Surprisingly, we discovered the common theme aligns with typical Lebron James interviews. The words 'guy' and 'team' emerged as the most frequent terms. LeBron frequently refers to himself as a 'guy' or 'just a guy' to emphasize his humanity, while his 'team' first approach, a hallmark of his entire career, further solidifies his reputation as one of the greatest players in basketball history.
 
-Some notable appearances are Kyrie and Kobe. Mention of both of them does not come as a surprise. Kyrie and Lebron teamed up in Cleveland for a few years and won a championship together. As for Kobe him and Lebron had some what of a rivalry as Kobe is also considered one of the all-time greats. Additionally, Kobe's tragic passing in 2020 influences his mention as well. 
+Some notable appearances are Kyrie and Kobe. Mention of both of them does not come as a surprise. Kyrie and Lebron both played for the Cleveland Caveliers from 2015-2017 and won a championship together. As for Kobe, him and Lebron had some what of a rivalry - as Kobe is also considered one of the all-time greats. Additionally, Kobe's tragic passing in 2020 influences his mention as well. 
 
 Lastly, we see 'great', 'time', and 'always' piecing together a common expression of enjoyment during ASG weekend and being able to take a break from regular season activities. Overall, this project contributed further evidence of the poise and mindset we typically see Lebron bring to an interview.
 
