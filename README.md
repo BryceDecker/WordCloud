@@ -13,17 +13,11 @@ We aim to continue the pattern set forth by the All-Star game and will execute o
 http://www.asapsports.com/show_player.php?id=13888
 
 ## :triangular_ruler: Skills and Methods
-**Web Scraping** 
+**Web Scraping** - Performed web scraping through the use of the bs4 library. Encoding detectors were used to identify all links on the page and BeautifulSoup package was utilized to pull all text from the selected links. Used understanding of website tags to scrape desired text, in particular we scraped 'b' and 'td' tags as the format varied - a variation due to the fact that some of these interviews are over 15 years old.      
 
-Performed web scraping through the use of the bs4 library. Encoding detectors were used to identify all links on the page and BeautifulSoup package was utilized to pull all text from the selected links. Used understanding of website tags to scrape desired text, in particular we scraped 'b' and 'td' tags as the format varied - a variation due to the fact that some of these interviews are over 15 years old.      
+**Natural Language Processing (NLP)** - Once we aggregate the text from each interview into a single array we are ready to begin processing our data. We utilized the natural language tool kit (nltk) library to do so. The word_tokenize and stopwords packages were used to efficiently remove punctuation and common transition words. Additionally, the removal of common words which had no value through the use of a for loop and if statements was conducted.   
 
-**Natural Language Processing (NLP)**
-
-Once we aggregate the text from each interview into a single array we are ready to begin processing our data. We utilized the natural language tool kit (nltk) library to do so. The word_tokenize and stopwords packages were used to efficiently remove punctuation and common transition words. Additionally, the removal of common words which had no value through the use of a for loop and if statements was conducted.   
-
-**Data Visualization**
-
-The first task of creating our visualization was choosing an impactful and clear image for our mask. Next, we ensured the image format was in-line with the requirements for a word cloud object (e.g. 255 for background). Finally, we implemented the wordcloud library to indentify the colors in our mask (ImageColorGenerator) and create the image (WordCloud).
+**Data Visualization** - The first task of creating our visualization was choosing an impactful and clear image for our mask. Next, we ensured the image format was in-line with the requirements for a word cloud object (e.g. 255 for background). Finally, we implemented the wordcloud library to indentify the colors in our mask (ImageColorGenerator) and create the image (WordCloud).
 
 ## :basketball: Word Cloud
 
