@@ -26,7 +26,7 @@ http://www.asapsports.com/show_player.php?id=13888
 ## :closed_book: Conclusion
 All- Star Game interviews were chosen in anticipation of different themes than those from the regular and post season. Surprisingly, we discovered the common theme aligns with typical Lebron James interviews. The words 'guy' and 'team' emerged as the most frequent terms. LeBron frequently refers to himself as a 'guy' or 'just a guy' to emphasize his humanity, while his 'team' first approach, a hallmark of his entire career, further solidifies his reputation as one of the greatest players in basketball history.
 
-Some notable appearances are Kyrie and Kobe. Mention of both of them does not come as a surprise. Kyrie and Lebron both played for the Cleveland Cavaliers from 2015-2017 and won a championship together. As for Kobe, him and Lebron had some what of a rivalry - as Kobe is also considered one of the all-time greats. Additionally, Kobe's tragic passing in 2020 influences his mention as well. 
+Some notable appearances are Kyrie and Kobe. Mention of both of them does not come as a surprise. Kyrie and Lebron both played for the Cleveland Cavaliers from 2015-2017 and won a championship together. As for Kobe, him and Lebron had somewhat of a rivalry - as Kobe is also considered one of the all-time greats. Additionally, Kobe's tragic passing in 2020 influences his mention as well. 
 
 Lastly, we see 'great', 'time', and 'always' piecing together a common expression of enjoyment during ASG weekend and being able to take a break from regular season activities. Overall, this project contributed further evidence of the poise and mindset we typically see Lebron bring to an interview.
 
